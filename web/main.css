@@ -1,64 +1,71 @@
-            .jumbotron {
-                padding-bottom: 0px;
-                padding-top: 0px;
-                margin-bottom: 0px;
-                margin-top: 0px;
-            }
-            .register {  
-                background-color: white !important;
-                padding-top: 120px;
-                margin-bottom: 0px;
-                margin-top: 0px;
-                <!--background-image: url(jumbotronbackground1.jpg);-->
-                background-position: 0% 25%;
-                background-size: cover;
-                background-repeat: no-repeat;
-                color: black;
-                min-height: 500px; 
-            }
-            .quotes {
-                
-                background-color: gainsboro !important;
-                padding-top: 120px;
-                margin-bottom: 0px;
-                margin-top: 0px;
-                <!--background-image: url(jumbotronbackground1.jpg);-->
-                background-color: black;
-                background-position: 0% 25%;
-                background-size: cover;
-                background-repeat: no-repeat;
-                color: black;
-                min-height: 500px; 
-            }
-            .footer {
-                background-color: gray !important;
-                padding-top: 120px;
-                margin-bottom: 0px;
-                margin-top: 0px;
-                <!--background-image: url(jumbotronbackground1.jpg);-->
-                background-color: black;
-                background-position: 0% 25%;
-                background-size: cover;
-                background-repeat: no-repeat;
-                color: black;
-                min-height: 300px;                 
-            }
-            .nav {
-                min-height: 60px;
-            }
-            .navbar-brand {
-                line-height: 60px;
-                height: 60px;
-                padding-top: 6px;
-            }
-            .navbar-nav li a {
-                line-height: 60px;
-                height: 60px;
-                padding-top: 0px;
-            }
-            .input-group {
-                padding-top: 4px;
-            }
-            .form-group {
-                margin-bottom: 0px;
-            }
+.jumbotron {
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.register {  
+    background-color: white !important;
+    padding-top: 120px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    <!--background-image: url(jumbotronbackground1.jpg);-->
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+    min-height: 500px; 
+}
+.quotes {
+
+    background-color: gainsboro !important;
+    padding-top: 120px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    <!--background-image: url(jumbotronbackground1.jpg);-->
+    background-color: black;
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+    min-height: 500px; 
+}
+.footer {
+    background-color: gray !important;
+    padding-top: 120px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    <!--background-image: url(jumbotronbackground1.jpg);-->
+    background-color: black;
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+    min-height: 300px;                 
+}
+.nav {
+    min-height: 60px;
+}
+.navbar-brand {
+    line-height: 60px;
+    height: 60px;
+    padding-top: 6px;
+}
+.navbar-nav li a {
+    line-height: 60px;
+    height: 60px;
+    padding-top: 0px;
+}
+.input-group {
+    padding-top: 4px;
+}
+.form-group {
+    margin-bottom: 0px;
+    padding-left: 125px;
+}
+.col-sm-offset-4 {
+    padding-left: 120px;
+}
+.center {
+    margin: auto;
+}
