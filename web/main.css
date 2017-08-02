@@ -6,7 +6,7 @@
 }
 .register {  
     background-color: white !important;
-    padding-top: 120px;
+    padding-top: 10%;
     margin-bottom: 0px;
     margin-top: 0px;
     <!--background-image: url(jumbotronbackground1.jpg);-->
@@ -19,7 +19,7 @@
 .quotes {
 
     background-color: gainsboro !important;
-    padding-top: 120px;
+    padding-top: 10%;
     margin-bottom: 0px;
     margin-top: 0px;
     <!--background-image: url(jumbotronbackground1.jpg);-->
@@ -32,7 +32,7 @@
 }
 .footer {
     background-color: gray !important;
-    padding-top: 120px;
+    padding-top: 10%;
     margin-bottom: 0px;
     margin-top: 0px;
     <!--background-image: url(jumbotronbackground1.jpg);-->
@@ -41,7 +41,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     color: black;
-    min-height: 300px;                 
+    min-height: 100px;                 
 }
 .nav {
     min-height: 60px;
@@ -49,7 +49,7 @@
 .navbar-brand {
     line-height: 60px;
     height: 60px;
-    padding-top: 6px;
+    padding-top: 3%;
 }
 .navbar-nav li a {
     line-height: 60px;
@@ -57,14 +57,14 @@
     padding-top: 0px;
 }
 .input-group {
-    padding-top: 4px;
+    padding-top: 2%;
 }
 .form-group {
     margin-bottom: 0px;
-    padding-left: 125px;
+    padding-left: 8%;
 }
 .col-sm-offset-4 {
-    padding-left: 120px;
+    padding-left: 2%;
 }
 .center {
     margin: auto;
